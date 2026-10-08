@@ -1,0 +1,15 @@
+{
+ "name": "Task Assigner",
+ "short_name": "Task Assigner",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#080808",
+ "theme_color": "#d4af37",
+ "icons": [
+  {
+   "src": "assets/logo-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
